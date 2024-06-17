@@ -1,11 +1,16 @@
 _repo: Next-year_73709
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73709-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Pick, Harry
     gutenberg_agent_id: '57199'
     url: http://www.gutenberg.org/2009/agents/57199
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73709#Next-year
 gutenberg_issued: '2024-05-29'
 gutenberg_type: Text
 identifiers:
